@@ -1,7 +1,5 @@
 {
   "name": "forget-me-not-health-tracker",
-  "author": "Nitya Sree Balusu -  nityasreebalusu@gmail.com",
-  "license": "ISC"
   "private": true,
   "version": "0.0.0",
   "type": "module",
